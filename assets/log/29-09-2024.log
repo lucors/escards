@@ -1,0 +1,426 @@
+<13:01:33> [MSG] СОЗДАН Пользователь "kolanbelavcev@gmail.com"
+<13:02:04> [MSG] Создана дуэль: {
+                duel_id:    155, 
+                creator_id: 21, 
+                duel_data_id: 12,
+                player_order: 0
+            }
+<13:03:34> [MSG] СОЗДАН Пользователь "forfixkon01@yandex.ru"
+<13:03:35> [MSG] Удалена дуэль duel_id:155
+<13:03:35> [MSG] Игрок uid:21 покинул duel_id:155
+<13:03:48> [MSG] Создана дуэль: {
+                duel_id:    156, 
+                creator_id: 22, 
+                duel_data_id: 13,
+                player_order: 0
+            }
+<13:04:09> [WARN] Пустой запрос api/index.php[33]
+<13:10:23> [MSG] СОЗДАН Пользователь "jeuxidnwjazk@gmail.com"
+<13:10:29> [MSG] Подключение к дуэли duel_id:156 uid:23
+<13:12:44> [MSG] СОЗДАН Пользователь "bogodukhov2020@mail.ru"
+<13:15:42> [MSG] Создана дуэль: {
+                duel_id:    157, 
+                creator_id: 24, 
+                duel_data_id: 15,
+                player_order: 0
+            }
+<13:15:55> [MSG] СОЗДАН Пользователь "pustynnikov2018@yandex.ru"
+<13:16:03> [MSG] Подключение к дуэли duel_id:157 uid:25
+<13:16:28> [MSG] Игрок uid:25 покинул duel_id:157
+<13:16:33> [MSG] ВЫХОД Пользователь "pustynnikov2018@yandex.ru"
+<13:16:39> [MSG] ВХОД Пользователь "pustynnikov2018@yandex.ru"
+<13:16:51> [MSG] Создана дуэль: {
+                duel_id:    158, 
+                creator_id: 25, 
+                duel_data_id: 16,
+                player_order: 0
+            }
+<13:17:57> [WARN] Не найден пользователь "dmitry.kukuyopta@yandex.ru" user/methods.php[22]
+<13:18:04> [MSG] СОЗДАН Пользователь "dmitry.kukuyopta@yandex.ru"
+<13:18:10> [MSG] СОЗДАН Пользователь "negri@pidorasi.com"
+<13:18:11> [MSG] Подключение к дуэли duel_id:158 uid:26
+<13:18:24> [MSG] Создана дуэль: {
+                duel_id:    159, 
+                creator_id: 27, 
+                duel_data_id: 18,
+                player_order: 0
+            }
+<13:18:29> [MSG] Игрок uid:26 покинул duel_id:158
+<13:18:51> [MSG] Удалена дуэль duel_id:159
+<13:18:51> [MSG] Игрок uid:27 покинул duel_id:159
+<13:19:21> [MSG] Создана дуэль: {
+                duel_id:    160, 
+                creator_id: 27, 
+                duel_data_id: 18,
+                player_order: 0
+            }
+<13:21:11> [MSG] СОЗДАН Пользователь "vova.osipov9119@mail.ru"
+<13:21:26> [MSG] Подключение к дуэли duel_id:160 uid:28
+<13:31:43> [MSG] СОЗДАН Пользователь "manmanov912@gmail.com"
+<13:31:47> [MSG] Создана дуэль: {
+                duel_id:    161, 
+                creator_id: 29, 
+                duel_data_id: 20,
+                player_order: 0
+            }
+<13:32:29> [MSG] Удалена дуэль duel_id:161
+<13:32:29> [MSG] Игрок uid:29 покинул duel_id:161
+<13:32:52> [MSG] СОЗДАН Пользователь "arkady.aka@gmail.com"
+<13:33:21> [MSG] Создана дуэль: {
+                duel_id:    162, 
+                creator_id: 30, 
+                duel_data_id: 21,
+                player_order: 0
+            }
+<13:33:34> [MSG] Удалена дуэль duel_id:162
+<13:33:34> [MSG] Игрок uid:30 покинул duel_id:162
+<13:37:00> [MSG] СОЗДАН Пользователь "kozyavkin.2001@mail.ru"
+<13:37:06> [MSG] Создана дуэль: {
+                duel_id:    163, 
+                creator_id: 31, 
+                duel_data_id: 22,
+                player_order: 0
+            }
+<13:37:10> [MSG] Удалена дуэль duel_id:163
+<13:37:10> [MSG] Игрок uid:31 покинул duel_id:163
+<13:37:14> [MSG] ВЫХОД Пользователь "kozyavkin.2001@mail.ru"
+<13:38:54> [MSG] СОЗДАН Пользователь "DanilV_42@mail.ru"
+<13:39:10> [MSG] Создана дуэль: {
+                duel_id:    164, 
+                creator_id: 32, 
+                duel_data_id: 23,
+                player_order: 0
+            }
+<13:39:19> [MSG] Удалена дуэль duel_id:164
+<13:39:19> [MSG] Игрок uid:32 покинул duel_id:164
+<13:41:40> [MSG] СОЗДАН Пользователь "pisatepisatell@gmail.com"
+<13:42:27> [MSG] Создана дуэль: {
+                duel_id:    165, 
+                creator_id: 33, 
+                duel_data_id: 24,
+                player_order: 0
+            }
+<13:46:00> [MSG] СОЗДАН Пользователь "dmitriyev2002@list.ru"
+<13:46:33> [MSG] Подключение к дуэли duel_id:165 uid:34
+<13:48:04> [MSG] Игрок uid:34 покинул duel_id:165
+<13:48:11> [MSG] Создана дуэль: {
+                duel_id:    166, 
+                creator_id: 34, 
+                duel_data_id: 25,
+                player_order: 0
+            }
+<13:48:43> [MSG] Удалена дуэль duel_id:166
+<13:48:43> [MSG] Игрок uid:34 покинул duel_id:166
+<13:48:47> [MSG] Создана дуэль: {
+                duel_id:    167, 
+                creator_id: 34, 
+                duel_data_id: 25,
+                player_order: 0
+            }
+<14:01:49> [MSG] СОЗДАН Пользователь "quecexuzuma-3505@yopmail.com"
+<14:01:54> [MSG] Подключение к дуэли duel_id:167 uid:35
+<14:05:57> [MSG] СОЗДАН Пользователь "sergeykar2006@gmail.com"
+<14:07:35> [MSG] Создана дуэль: {
+                duel_id:    168, 
+                creator_id: 36, 
+                duel_data_id: 27,
+                player_order: 0
+            }
+<14:07:45> [MSG] Удалена дуэль duel_id:168
+<14:07:45> [MSG] Игрок uid:36 покинул duel_id:168
+<14:14:13> [MSG] СОЗДАН Пользователь "andreifedorov020408@gmail.com"
+<14:14:25> [MSG] Создана дуэль: {
+                duel_id:    169, 
+                creator_id: 37, 
+                duel_data_id: 28,
+                player_order: 0
+            }
+<14:14:43> [MSG] Удалена дуэль duel_id:169
+<14:14:43> [MSG] Игрок uid:37 покинул duel_id:169
+<14:14:51> [MSG] ВЫХОД Пользователь "andreifedorov020408@gmail.com"
+<14:15:28> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<14:16:42> [WARN] Некорректный формат email auth/methods.php[17]
+<14:16:53> [MSG] ВХОД Пользователь "nikitabar3@gmail.com"
+<14:16:56> [MSG] Создана дуэль: {
+                duel_id:    170, 
+                creator_id: 2, 
+                duel_data_id: 10,
+                player_order: 0
+            }
+<14:18:02> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<14:18:43> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<14:18:57> [MSG] Подключение к дуэли duel_id:170 uid:1
+<14:19:13> [MSG] Игрок uid:1 покинул duel_id:170
+<14:19:17> [MSG] Создана дуэль: {
+                duel_id:    171, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<14:20:24> [MSG] Удалена дуэль duel_id:171
+<14:20:24> [MSG] Игрок uid:1 покинул duel_id:171
+<14:24:15> [MSG] СОЗДАН Пользователь "vasa00880@yandex.ru"
+<14:24:39> [MSG] Создана дуэль: {
+                duel_id:    172, 
+                creator_id: 38, 
+                duel_data_id: 29,
+                player_order: 0
+            }
+<14:25:32> [MSG] Удалена дуэль duel_id:172
+<14:25:32> [MSG] Игрок uid:38 покинул duel_id:172
+<14:34:01> [MSG] СОЗДАН Пользователь "banzabanenbanom@gmail.com"
+<14:34:50> [MSG] Создана дуэль: {
+                duel_id:    173, 
+                creator_id: 39, 
+                duel_data_id: 30,
+                player_order: 0
+            }
+<14:45:04> [MSG] СОЗДАН Пользователь "doromanu776@gmail.com"
+<14:45:09> [MSG] Подключение к дуэли duel_id:173 uid:40
+<14:45:29> [MSG] Игрок uid:40 покинул duel_id:173
+<14:45:39> [MSG] Создана дуэль: {
+                duel_id:    174, 
+                creator_id: 40, 
+                duel_data_id: 31,
+                player_order: 0
+            }
+<14:46:33> [MSG] Удалена дуэль duel_id:174
+<14:46:33> [MSG] Игрок uid:40 покинул duel_id:174
+<14:51:29> [MSG] Удалена дуэль duel_id:173
+<14:51:29> [MSG] Игрок uid:39 покинул duel_id:173
+<14:51:32> [MSG] Создана дуэль: {
+                duel_id:    175, 
+                creator_id: 39, 
+                duel_data_id: 30,
+                player_order: 0
+            }
+<14:52:25> [MSG] Удалена дуэль duel_id:175
+<14:52:25> [MSG] Игрок uid:39 покинул duel_id:175
+<14:58:41> [MSG] СОЗДАН Пользователь "region197442@gmail.com"
+<15:00:46> [MSG] Создана дуэль: {
+                duel_id:    176, 
+                creator_id: 41, 
+                duel_data_id: 32,
+                player_order: 0
+            }
+<15:00:55> [MSG] Удалена дуэль duel_id:176
+<15:00:55> [MSG] Игрок uid:41 покинул duel_id:176
+<15:04:32> [MSG] СОЗДАН Пользователь "1black3clever@mail.ru"
+<15:04:39> [MSG] Создана дуэль: {
+                duel_id:    177, 
+                creator_id: 42, 
+                duel_data_id: 33,
+                player_order: 0
+            }
+<15:12:05> [MSG] Удалена дуэль duel_id:177
+<15:12:05> [MSG] Игрок uid:42 покинул duel_id:177
+<15:12:14> [MSG] ВЫХОД Пользователь "1black3clever@mail.ru"
+<15:26:51> [MSG] СОЗДАН Пользователь "typik551@gmail.com"
+<15:27:00> [MSG] Создана дуэль: {
+                duel_id:    178, 
+                creator_id: 43, 
+                duel_data_id: 34,
+                player_order: 0
+            }
+<15:38:49> [MSG] СОЗДАН Пользователь "svyatoslav.zagorulko@mail.ru"
+<15:38:55> [MSG] Подключение к дуэли duel_id:178 uid:44
+<16:04:10> [WARN] Ошибка регистрации auth/methods.php[100]
+<16:04:18> [WARN] Ошибка регистрации auth/methods.php[100]
+<16:04:19> [WARN] Ошибка регистрации auth/methods.php[100]
+<16:04:28> [WARN] Ошибка регистрации auth/methods.php[100]
+<16:04:39> [MSG] СОЗДАН Пользователь "xlayvanes2002@gmail.com"
+<16:04:47> [MSG] Создана дуэль: {
+                duel_id:    179, 
+                creator_id: 49, 
+                duel_data_id: 36,
+                player_order: 0
+            }
+<16:15:05> [MSG] СОЗДАН Пользователь "kav13052002@list.ru"
+<16:15:14> [MSG] Подключение к дуэли duel_id:179 uid:50
+<16:18:20> [MSG] Удалена дуэль duel_id:179
+<16:18:20> [MSG] Игрок uid:50 покинул duel_id:179
+<16:18:35> [MSG] Создана дуэль: {
+                duel_id:    180, 
+                creator_id: 50, 
+                duel_data_id: 37,
+                player_order: 0
+            }
+<16:18:45> [MSG] Игрок uid:49 покинул duel_id:179
+<16:18:52> [MSG] Подключение к дуэли duel_id:180 uid:49
+<16:20:39> [MSG] Удалена дуэль duel_id:180
+<16:20:39> [MSG] Игрок uid:50 покинул duel_id:180
+<16:20:48> [MSG] Игрок uid:49 покинул duel_id:180
+<16:20:53> [MSG] Создана дуэль: {
+                duel_id:    181, 
+                creator_id: 49, 
+                duel_data_id: 36,
+                player_order: 0
+            }
+<16:25:25> [MSG] СОЗДАН Пользователь "fellliny@yandex.ru"
+<16:25:32> [MSG] Подключение к дуэли duel_id:181 uid:51
+<16:30:57> [MSG] Удалена дуэль duel_id:181
+<16:30:57> [MSG] Игрок uid:49 покинул duel_id:181
+<16:31:27> [MSG] Создана дуэль: {
+                duel_id:    182, 
+                creator_id: 51, 
+                duel_data_id: 38,
+                player_order: 0
+            }
+<16:33:20> [MSG] Удалена дуэль duel_id:182
+<16:33:20> [MSG] Игрок uid:51 покинул duel_id:182
+<16:33:27> [MSG] Создана дуэль: {
+                duel_id:    183, 
+                creator_id: 51, 
+                duel_data_id: 38,
+                player_order: 0
+            }
+<17:05:10> [WARN] Некорректный формат email auth/methods.php[17]
+<17:05:16> [WARN] Не найден пользователь "jekarws@gmail.com" user/methods.php[22]
+<17:17:34> [MSG] СОЗДАН Пользователь "jekarws@gmail.com"
+<17:22:24> [MSG] Подключение к дуэли duel_id:183 uid:1
+<17:23:28> [MSG] Игрок uid:1 покинул duel_id:183
+<17:23:42> [MSG] Создана дуэль: {
+                duel_id:    184, 
+                creator_id: 52, 
+                duel_data_id: 39,
+                player_order: 0
+            }
+<17:23:48> [MSG] Подключение к дуэли duel_id:184 uid:1
+<17:23:48> [MSG] Игрок uid:52 покинул duel_id:184
+<17:23:51> [MSG] Удалена дуэль duel_id:184
+<17:23:51> [MSG] Игрок uid:1 покинул duel_id:184
+<17:23:55> [MSG] Создана дуэль: {
+                duel_id:    185, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<17:24:14> [MSG] Подключение к дуэли duel_id:185 uid:52
+<17:26:47> [MSG] Удалена дуэль duel_id:185
+<17:26:48> [MSG] Игрок uid:1 покинул duel_id:185
+<17:27:00> [MSG] Игрок uid:52 покинул duel_id:185
+<17:27:06> [MSG] Создана дуэль: {
+                duel_id:    186, 
+                creator_id: 52, 
+                duel_data_id: 39,
+                player_order: 0
+            }
+<17:29:08> [MSG] Подключение к дуэли duel_id:186 uid:1
+<17:29:12> [MSG] Игрок uid:1 покинул duel_id:186
+<17:29:15> [MSG] Удалена дуэль duel_id:186
+<17:29:15> [MSG] Игрок uid:52 покинул duel_id:186
+<17:29:18> [MSG] Создана дуэль: {
+                duel_id:    187, 
+                creator_id: 52, 
+                duel_data_id: 39,
+                player_order: 0
+            }
+<17:30:28> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<17:34:24> [MSG] СОЗДАН Пользователь "ween.grigoryev1337@mail.ru"
+<17:34:28> [MSG] Подключение к дуэли duel_id:187 uid:53
+<17:35:02> [MSG] Игрок uid:53 покинул duel_id:187
+<17:35:08> [MSG] Создана дуэль: {
+                duel_id:    188, 
+                creator_id: 53, 
+                duel_data_id: 40,
+                player_order: 0
+            }
+<17:35:36> [MSG] Удалена дуэль duel_id:183
+<17:35:36> [MSG] Игрок uid:51 покинул duel_id:183
+<19:08:21> [WARN] Не найден пользователь "artemdemidov316@gmail.com" user/methods.php[22]
+<19:08:45> [MSG] СОЗДАН Пользователь "artemdemidov316@gmail.com"
+<19:09:00> [MSG] Подключение к дуэли duel_id:188 uid:54
+<19:10:08> [MSG] Игрок uid:54 покинул duel_id:188
+<19:10:36> [MSG] Создана дуэль: {
+                duel_id:    189, 
+                creator_id: 54, 
+                duel_data_id: 41,
+                player_order: 0
+            }
+<19:11:36> [MSG] СОЗДАН Пользователь "pycejale@logsmarter.net"
+<19:11:50> [MSG] Подключение к дуэли duel_id:189 uid:55
+<19:23:42> [MSG] СОЗДАН Пользователь "rodionoffc@yandex.ru"
+<19:23:47> [MSG] Создана дуэль: {
+                duel_id:    190, 
+                creator_id: 56, 
+                duel_data_id: 43,
+                player_order: 0
+            }
+<19:24:11> [MSG] Удалена дуэль duel_id:190
+<19:24:11> [MSG] Игрок uid:56 покинул duel_id:190
+<19:24:28> [MSG] Создана дуэль: {
+                duel_id:    191, 
+                creator_id: 56, 
+                duel_data_id: 43,
+                player_order: 0
+            }
+<19:24:46> [MSG] Удалена дуэль duel_id:191
+<19:24:46> [MSG] Игрок uid:56 покинул duel_id:191
+<19:24:53> [MSG] ВЫХОД Пользователь "rodionoffc@yandex.ru"
+<20:11:32> [WARN] Некорректные данные auth/methods.php[44]
+<20:11:35> [WARN] Некорректные данные auth/methods.php[44]
+<20:11:47> [MSG] ВХОД Пользователь "sergeykar2006@gmail.com"
+<20:11:51> [MSG] Создана дуэль: {
+                duel_id:    192, 
+                creator_id: 36, 
+                duel_data_id: 27,
+                player_order: 0
+            }
+<20:12:18> [MSG] Удалена дуэль duel_id:192
+<20:12:18> [MSG] Игрок uid:36 покинул duel_id:192
+<20:30:49> [MSG] СОЗДАН Пользователь "nikolay.podakin2@gmail.com"
+<20:31:45> [MSG] Создана дуэль: {
+                duel_id:    193, 
+                creator_id: 57, 
+                duel_data_id: 44,
+                player_order: 0
+            }
+<20:32:01> [MSG] Удалена дуэль duel_id:193
+<20:32:01> [MSG] Игрок uid:57 покинул duel_id:193
+<20:32:12> [MSG] Создана дуэль: {
+                duel_id:    194, 
+                creator_id: 57, 
+                duel_data_id: 44,
+                player_order: 0
+            }
+<20:32:44> [MSG] Удалена дуэль duel_id:194
+<20:32:44> [MSG] Игрок uid:57 покинул duel_id:194
+<20:56:53> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<20:56:59> [MSG] Создана дуэль: {
+                duel_id:    195, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<20:57:35> [WARN] Ошибка получения данных соперника duel/methods.php[422]
+<20:57:35> [WARN] Ошибка получения данных соперника card/daemon-support.php[21]
+<20:57:43> [MSG] Удалена дуэль duel_id:187
+<20:57:43> [MSG] Игрок uid:52 покинул duel_id:187
+<20:57:48> [MSG] ВЫХОД Пользователь "jekarws@gmail.com"
+<20:58:06> [WARN] Некорректный формат email auth/methods.php[17]
+<20:58:09> [WARN] Некорректные данные auth/methods.php[44]
+<20:58:13> [MSG] ВХОД Пользователь "jekarws@gmail.com"
+<20:59:37> [MSG] Удалена дуэль duel_id:195
+<20:59:37> [MSG] Игрок uid:1 покинул duel_id:195
+<20:59:40> [MSG] Создана дуэль: {
+                duel_id:    196, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<20:59:54> [MSG] Подключение к дуэли duel_id:196 uid:52
+<21:00:00> [MSG] Игрок uid:1 покинул duel_id:196
+<21:00:05> [MSG] Удалена дуэль duel_id:196
+<21:00:05> [MSG] Игрок uid:52 покинул duel_id:196
+<21:00:24> [MSG] Создана дуэль: {
+                duel_id:    197, 
+                creator_id: 52, 
+                duel_data_id: 39,
+                player_order: 0
+            }
+<21:01:18> [MSG] Подключение к дуэли duel_id:197 uid:1
+<21:01:25> [MSG] Игрок uid:1 покинул duel_id:197
+<21:02:48> [MSG] Удалена дуэль duel_id:197
+<21:02:48> [MSG] Игрок uid:52 покинул duel_id:197
+<21:06:06> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<21:09:01> [MSG] ВХОД Пользователь "admin@lucors.ru"

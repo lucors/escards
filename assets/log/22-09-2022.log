@@ -1,0 +1,11 @@
+<16:06:30> [WARN] Некорректные данные auth/methods.php[44]
+<16:06:35> [MSG] ВХОД Пользователь "nikitabar3@gmail.com"
+<16:06:52> [MSG] Создана дуэль: {
+                duel_id:    99, 
+                creator_id: 2, 
+                duel_data_id: 10,
+                player_order: 0
+            }
+<16:07:00> [MSG] Удалена дуэль duel_id:99
+<16:07:00> [MSG] Игрок uid:2 покинул duel_id:99
+<16:07:05> [MSG] ВЫХОД Пользователь "nikitabar3@gmail.com"

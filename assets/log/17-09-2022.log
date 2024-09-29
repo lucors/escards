@@ -1,0 +1,23 @@
+<01:50:51> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<01:51:12> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<01:51:19> [MSG] Создана дуэль: {
+                duel_id:    96, 
+                creator_id: 3, 
+                duel_data_id: 2,
+                player_order: 0
+            }
+<01:51:21> [MSG] Подключение к дуэли duel_id:96 uid:1
+<01:52:36> [MSG] Удалена дуэль duel_id:96
+<01:52:36> [MSG] Игрок uid:1 покинул duel_id:96
+<01:52:39> [MSG] Игрок uid:3 покинул duel_id:96
+<01:52:43> [MSG] ВЫХОД Пользователь "pepsi@yandex.ru"
+<01:53:02> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<18:36:16> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<18:36:27> [MSG] Создана дуэль: {
+                duel_id:    97, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<18:36:31> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<18:36:34> [MSG] Подключение к дуэли duel_id:97 uid:3

@@ -1,0 +1,7 @@
+:root {
+	/*Parent directory*/
+	--dir: "/escards/";
+	--size-auth-substr-h: 		90vh;
+	--size-auth-substr-w: 		25vw;
+	--size-auth-parent-w: 		18vw;
+}

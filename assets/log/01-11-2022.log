@@ -1,0 +1,10 @@
+<22:54:41> [WARN] Некорректные данные auth/methods.php[44]
+<22:54:44> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<22:54:51> [MSG] Создана дуэль: {
+                duel_id:    109, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<22:54:53> [MSG] Удалена дуэль duel_id:109
+<22:54:53> [MSG] Игрок uid:1 покинул duel_id:109

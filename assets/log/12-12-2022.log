@@ -1,0 +1,26 @@
+<02:56:44> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<02:56:55> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<02:59:00> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<02:59:06> [MSG] Создана дуэль: {
+                duel_id:    115, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<02:59:09> [MSG] Удалена дуэль duel_id:115
+<02:59:09> [MSG] Игрок uid:1 покинул duel_id:115
+<02:59:20> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<06:37:05> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<06:37:15> [MSG] Создана дуэль: {
+                duel_id:    116, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<06:37:18> [MSG] Удалена дуэль duel_id:116
+<06:37:18> [MSG] Игрок uid:1 покинул duel_id:116
+<06:37:22> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<06:37:54> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<06:37:58> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<06:38:06> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<06:38:13> [MSG] ВЫХОД Пользователь "admin@lucors.ru"

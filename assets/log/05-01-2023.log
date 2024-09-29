@@ -1,0 +1,15 @@
+<00:28:39> [WARN] Некорректный формат email auth/methods.php[17]
+<00:28:49> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<00:32:03> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<23:15:49> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<23:15:59> [MSG] Создана дуэль: {
+                duel_id:    118, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<23:17:51> [MSG] Удалена дуэль duel_id:118
+<23:17:51> [MSG] Игрок uid:1 покинул duel_id:118
+<23:18:11> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<23:18:18> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<23:18:23> [MSG] ВЫХОД Пользователь "admin@lucors.ru"

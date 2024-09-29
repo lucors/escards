@@ -1,0 +1,95 @@
+<14:27:52> [WARN] Некорректные данные auth/methods.php[66]
+<14:28:22> [MSG] ВХОД Пользователь "test@test.ru"
+<14:39:48> [MSG] ВХОД Пользователь "test@test.ru"
+<17:12:23> [WARN] Не определен путь запроса (route) api/index.php[36]
+<17:16:32> [WARN] Не определен путь запроса (route) api/index.php[37]
+<17:17:13> [WARN] TEsT POST1
+<17:17:13> [WARN] TEsT POST3
+<17:17:13> [WARN] Не определен путь запроса (route) api/index.php[39]
+<17:18:33> [WARN] TEsT POST1
+<17:18:33> [WARN] TEsT POST3
+<17:18:33> [WARN] Не определен путь запроса (route) api/index.php[39]
+<17:18:51> [WARN] TEsT POST1
+<17:18:51> [WARN] TEsT POST2
+<17:19:07> [MSG] ВЫХОД Пользователь "test@test.ru"
+<17:19:08> [WARN] TEsT POST1
+<17:19:08> [WARN] TEsT POST3
+<17:19:08> [WARN] Пустой запрос api/index.php[36]
+<17:23:11> [WARN] TEsT POST1
+<17:23:11> [WARN] TEsT POST3
+<17:23:11> [MSG] ВХОД Пользователь "test@test.ru"
+<17:24:36> [WARN] TEsT POST1
+<17:24:36> [WARN] TEsT POST2
+<17:33:48> [WARN] Ошибка перемещения файла user/methods.php[63]
+<17:34:49> [WARN] /home/u390581pln/domains/lucors.ru/public_html/escards/api/user/../assets/img/avatars/
+<17:34:49> [WARN] Ошибка перемещения файла user/methods.php[64]
+<17:35:15> [WARN] /home/u390581pln/domains/lucors.ru/public_html/escards/api/user/../../assets/img/avatars/
+<17:35:58> [WARN] /home/u390581pln/domains/lucors.ru/public_html/escards/api/user/../../assets/img/avatars/
+<17:41:15> [WARN] Некорректное расширение файла user/methods.php[56]
+<17:42:15> [WARN] Некорректное расширение файла user/methods.php[56]
+<17:43:20> [MSG] Некорректное расширение файла. Поддерживается только PNG user/methods.php[56]
+<17:43:59> [MSG] Некорректное расширение файла. Поддерживается только PNG user/methods.php[56]
+<17:48:37> [WARN] Ошибка перемещения файла user/methods.php[63]
+<17:59:10> [MSG] Создана дуэль: {
+                duel_id:    19, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<18:00:18> [WARN] Ошибка получения оппонента дуэли duel/methods.php[439]
+<18:00:33> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<18:00:36> [MSG] Подключение к дуэли duel_id:19 uid:2
+<18:00:41> [WARN] Не найден пользователь "Array" user/methods.php[23]
+<18:01:15> [MSG] Игрок uid:1 покинул duel_id:19
+<18:01:20> [MSG] Удалена дуэль duel_id:19
+<18:01:20> [MSG] Игрок uid:2 покинул duel_id:19
+<18:02:21> [MSG] Создана дуэль: {
+                duel_id:    20, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<18:02:23> [MSG] Подключение к дуэли duel_id:20 uid:2
+<18:02:44> [MSG] Игрок uid:1 покинул duel_id:20
+<18:02:51> [MSG] Удалена дуэль duel_id:20
+<18:02:51> [MSG] Игрок uid:2 покинул duel_id:20
+<18:02:59> [MSG] ВЫХОД Пользователь "pepsi@yandex.ru"
+<18:04:08> [MSG] ВЫХОД Пользователь "test@test.ru"
+<18:04:14> [MSG] ВХОД Пользователь "test@test.ru"
+<18:05:08> [MSG] ВЫХОД Пользователь "test@test.ru"
+<18:07:59> [MSG] ВХОД Пользователь "test@test.ru"
+<18:08:06> [MSG] ВЫХОД Пользователь "test@test.ru"
+<18:08:16> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<18:08:22> [MSG] ВЫХОД Пользователь "pepsi@yandex.ru"
+<18:08:27> [MSG] ВХОД Пользователь "test@test.ru"
+<18:14:38> [WARN] Дуэль не найдена duel/methods.php[17]
+<18:17:38> [MSG] ВЫХОД Пользователь "test@test.ru"
+<20:10:44> [WARN] Пользователь не авторизирован api/index.php[42]
+<20:10:46> [WARN] Пользователь не авторизирован api/index.php[42]
+<20:10:48> [WARN] Пользователь не авторизирован api/index.php[42]
+<20:11:58> [WARN] Пользователь не авторизирован api/index.php[42]
+<20:12:02> [WARN] Пользователь не авторизирован api/index.php[42]
+<20:12:07> [MSG] ВХОД Пользователь "test@test.ru"
+<20:19:08> [WARN] Дуэль не найдена duel/methods.php[17]
+<20:19:15> [MSG] Создана дуэль: {
+                duel_id:    21, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<20:19:39> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<20:19:42> [MSG] Подключение к дуэли duel_id:21 uid:2
+<20:21:26> [MSG] Игрок uid:2 покинул duel_id:21
+<20:21:31> [MSG] Удалена дуэль duel_id:21
+<20:21:31> [MSG] Игрок uid:1 покинул duel_id:21
+<20:23:33> [MSG] Создана дуэль: {
+                duel_id:    22, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<20:30:54> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<20:30:58> [MSG] Подключение к дуэли duel_id:22 uid:2
+<20:33:46> [MSG] Игрок uid:2 покинул duel_id:22
+<20:33:50> [MSG] Удалена дуэль duel_id:22
+<20:33:50> [MSG] Игрок uid:1 покинул duel_id:22

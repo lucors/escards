@@ -1,0 +1,17 @@
+<17:19:02> [WARN] Не найден пользователь "test@test.ru" user/methods.php[22]
+<17:19:05> [WARN] Не найден пользователь "thesourcecode.max@yandex.ru" user/methods.php[22]
+<17:19:12> [WARN] Некорректные данные auth/methods.php[44]
+<17:19:14> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<17:19:26> [MSG] Подключение к дуэли duel_id:102 uid:1
+<17:19:26> [WARN] Ошибка получения данных соперника duel/methods.php[422]
+<17:19:28> [MSG] Удалена дуэль duel_id:102
+<17:19:28> [MSG] Игрок uid:1 покинул duel_id:102
+<17:19:32> [MSG] Создана дуэль: {
+                duel_id:    103, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<17:19:34> [MSG] Удалена дуэль duel_id:103
+<17:19:34> [MSG] Игрок uid:1 покинул duel_id:103
+<17:19:38> [MSG] ВЫХОД Пользователь "admin@lucors.ru"

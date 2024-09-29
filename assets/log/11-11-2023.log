@@ -1,0 +1,61 @@
+<23:38:00> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<23:38:18> [MSG] Создана дуэль: {
+                duel_id:    129, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<23:38:38> [MSG] Удалена дуэль duel_id:129
+<23:38:38> [MSG] Игрок uid:1 покинул duel_id:129
+<23:38:54> [MSG] Создана дуэль: {
+                duel_id:    130, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<23:39:59> [WARN] Некорректные данные auth/methods.php[44]
+<23:40:03> [WARN] Некорректные данные auth/methods.php[44]
+<23:40:08> [WARN] Некорректные данные auth/methods.php[44]
+<23:40:10> [WARN] Некорректные данные auth/methods.php[44]
+<23:40:15> [WARN] Некорректные данные auth/methods.php[44]
+<23:40:21> [WARN] Некорректные данные auth/methods.php[44]
+<23:40:27> [WARN] Некорректные данные auth/methods.php[44]
+<23:40:31> [WARN] Некорректные данные auth/methods.php[44]
+<23:40:38> [WARN] Некорректные данные auth/methods.php[44]
+<23:40:44> [WARN] Некорректные данные auth/methods.php[44]
+<23:40:49> [WARN] Некорректные данные auth/methods.php[44]
+<23:40:53> [WARN] Некорректные данные auth/methods.php[44]
+<23:40:57> [MSG] ВХОД Пользователь "nikitabar3@gmail.com"
+<23:41:01> [MSG] Подключение к дуэли duel_id:130 uid:2
+<23:43:52> [MSG] Удалена дуэль duel_id:130
+<23:43:52> [MSG] Игрок uid:1 покинул duel_id:130
+<23:43:55> [MSG] Игрок uid:2 покинул duel_id:130
+<23:43:55> [MSG] Создана дуэль: {
+                duel_id:    131, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<23:43:59> [MSG] Подключение к дуэли duel_id:131 uid:2
+<23:46:06> [MSG] Удалена дуэль duel_id:131
+<23:46:06> [MSG] Игрок uid:1 покинул duel_id:131
+<23:46:10> [MSG] Создана дуэль: {
+                duel_id:    132, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<23:46:10> [MSG] Игрок uid:2 покинул duel_id:131
+<23:46:12> [MSG] Удалена дуэль duel_id:132
+<23:46:12> [MSG] Игрок uid:1 покинул duel_id:132
+<23:46:13> [MSG] Создана дуэль: {
+                duel_id:    133, 
+                creator_id: 2, 
+                duel_data_id: 10,
+                player_order: 0
+            }
+<23:46:15> [MSG] Подключение к дуэли duel_id:133 uid:1
+<23:48:02> [MSG] Удалена дуэль duel_id:133
+<23:48:02> [MSG] Игрок uid:1 покинул duel_id:133
+<23:48:05> [MSG] Игрок uid:2 покинул duel_id:133
+<23:48:07> [MSG] ВЫХОД Пользователь "admin@lucors.ru"

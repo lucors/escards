@@ -1,0 +1,227 @@
+<00:06:20> [MSG] Игрок uid:1 покинул duel_id:125
+<00:06:22> [MSG] Удалена дуэль duel_id:125
+<00:06:22> [MSG] Игрок uid:2 покинул duel_id:125
+<00:09:57> [MSG] Создана дуэль: {
+                duel_id:    126, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<00:09:58> [MSG] Подключение к дуэли duel_id:126 uid:2
+<00:10:59> [MSG] Игрок uid:1 покинул duel_id:126
+<00:11:01> [MSG] Удалена дуэль duel_id:126
+<00:11:01> [MSG] Игрок uid:2 покинул duel_id:126
+<00:11:07> [MSG] Создана дуэль: {
+                duel_id:    127, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<00:11:13> [MSG] Подключение к дуэли duel_id:127 uid:2
+<00:13:09> [MSG] Игрок uid:1 покинул duel_id:127
+<00:13:11> [MSG] Удалена дуэль duel_id:127
+<00:13:11> [MSG] Игрок uid:2 покинул duel_id:127
+<00:21:26> [MSG] Создана дуэль: {
+                duel_id:    128, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<00:21:28> [MSG] Подключение к дуэли duel_id:128 uid:2
+<00:23:02> [MSG] Игрок uid:1 покинул duel_id:128
+<00:23:03> [MSG] Удалена дуэль duel_id:128
+<00:23:03> [MSG] Игрок uid:2 покинул duel_id:128
+<00:23:06> [MSG] Создана дуэль: {
+                duel_id:    129, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<00:23:08> [MSG] Подключение к дуэли duel_id:129 uid:2
+<00:25:58> [MSG] Игрок uid:1 покинул duel_id:129
+<00:26:01> [MSG] Удалена дуэль duel_id:129
+<00:26:01> [MSG] Игрок uid:2 покинул duel_id:129
+<00:26:40> [MSG] Создана дуэль: {
+                duel_id:    130, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<00:26:42> [MSG] Подключение к дуэли duel_id:130 uid:2
+<00:27:42> [MSG] Игрок uid:2 покинул duel_id:130
+<00:27:43> [MSG] Игрок uid:1 покинул duel_id:130
+<00:27:50> [MSG] Создана дуэль: {
+                duel_id:    131, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<00:27:53> [MSG] Подключение к дуэли duel_id:131 uid:2
+<00:37:57> [MSG] Игрок uid:1 покинул duel_id:131
+<00:38:02> [MSG] Удалена дуэль duel_id:131
+<00:38:02> [MSG] Игрок uid:2 покинул duel_id:131
+<00:38:08> [MSG] Создана дуэль: {
+                duel_id:    132, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<00:38:08> [MSG] Подключение к дуэли duel_id:132 uid:2
+<00:39:30> [MSG] Игрок uid:1 покинул duel_id:132
+<00:39:32> [MSG] Удалена дуэль duel_id:132
+<00:39:32> [MSG] Игрок uid:2 покинул duel_id:132
+<00:40:06> [MSG] Создана дуэль: {
+                duel_id:    133, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<00:40:21> [MSG] Подключение к дуэли duel_id:133 uid:2
+<00:41:33> [MSG] Игрок uid:1 покинул duel_id:133
+<00:41:35> [MSG] Удалена дуэль duel_id:133
+<00:41:35> [MSG] Игрок uid:2 покинул duel_id:133
+<00:41:43> [MSG] Создана дуэль: {
+                duel_id:    134, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<00:41:46> [MSG] Подключение к дуэли duel_id:134 uid:2
+<00:48:52> [MSG] Игрок uid:1 покинул duel_id:134
+<00:48:54> [MSG] Удалена дуэль duel_id:134
+<00:48:54> [MSG] Игрок uid:2 покинул duel_id:134
+<00:48:57> [MSG] Создана дуэль: {
+                duel_id:    135, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<00:48:59> [MSG] Подключение к дуэли duel_id:135 uid:2
+<00:50:50> [MSG] Игрок uid:1 покинул duel_id:135
+<00:50:52> [MSG] Удалена дуэль duel_id:135
+<00:50:52> [MSG] Игрок uid:2 покинул duel_id:135
+<00:51:01> [MSG] Создана дуэль: {
+                duel_id:    136, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<00:51:05> [MSG] Подключение к дуэли duel_id:136 uid:2
+<00:54:08> [MSG] Игрок uid:1 покинул duel_id:136
+<00:54:11> [MSG] Удалена дуэль duel_id:136
+<00:54:11> [MSG] Игрок uid:2 покинул duel_id:136
+<00:56:16> [WARN] Игра временно недоступна auth/methods.php[100]
+<01:03:52> [MSG] ВЫХОД Пользователь "pepsi@yandex.ru"
+<01:04:28> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<01:06:17> [MSG] ВЫХОД Пользователь "pepsi@yandex.ru"
+<01:06:20> [WARN] Ошибка регистрации auth/methods.php[100]
+<01:08:58> [MSG] ВЫХОД Пользователь "pepsi2@yandex.ru"
+<01:12:33> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<01:21:27> [MSG] Создана дуэль: {
+                duel_id:    1, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<01:21:28> [MSG] Подключение к дуэли duel_id:1 uid:3
+<01:22:07> [MSG] Игрок uid:1 покинул duel_id:1
+<01:22:10> [MSG] Удалена дуэль duel_id:1
+<01:22:10> [MSG] Игрок uid:3 покинул duel_id:1
+<01:22:19> [MSG] Создана дуэль: {
+                duel_id:    2, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<01:22:27> [MSG] Подключение к дуэли duel_id:2 uid:3
+<01:23:01> [MSG] Игрок uid:1 покинул duel_id:2
+<01:23:04> [MSG] Удалена дуэль duel_id:2
+<01:23:04> [MSG] Игрок uid:3 покинул duel_id:2
+<01:23:41> [MSG] Создана дуэль: {
+                duel_id:    3, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<01:23:43> [MSG] Подключение к дуэли duel_id:3 uid:3
+<01:24:19> [MSG] Игрок uid:1 покинул duel_id:3
+<01:24:20> [MSG] Удалена дуэль duel_id:3
+<01:24:20> [MSG] Игрок uid:3 покинул duel_id:3
+<01:27:23> [MSG] Создана дуэль: {
+                duel_id:    4, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<01:27:24> [MSG] Подключение к дуэли duel_id:4 uid:7
+<01:31:21> [MSG] Игрок uid:1 покинул duel_id:4
+<01:31:24> [MSG] Удалена дуэль duel_id:4
+<01:31:24> [MSG] Игрок uid:7 покинул duel_id:4
+<01:31:30> [MSG] Создана дуэль: {
+                duel_id:    5, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<01:31:43> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<01:31:46> [MSG] Подключение к дуэли duel_id:5 uid:3
+<01:36:20> [MSG] Игрок uid:1 покинул duel_id:5
+<01:36:20> [WARN] Ошибка получения оппонента дуэли duel/methods.php[383]
+<01:36:20> [WARN] Ошибка получения данных соперника card/methods.php[22]
+<01:36:20> [WARN] Ошибка получения оппонента дуэли duel/methods.php[383]
+<01:36:22> [MSG] Удалена дуэль duel_id:5
+<01:36:22> [MSG] Игрок uid:3 покинул duel_id:5
+<01:36:25> [MSG] Создана дуэль: {
+                duel_id:    6, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<01:36:27> [MSG] Подключение к дуэли duel_id:6 uid:3
+<01:46:52> [MSG] Игрок uid:1 покинул duel_id:6
+<01:46:56> [MSG] Удалена дуэль duel_id:6
+<01:46:56> [MSG] Игрок uid:3 покинул duel_id:6
+<01:46:59> [MSG] Создана дуэль: {
+                duel_id:    7, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<01:47:01> [MSG] Подключение к дуэли duel_id:7 uid:3
+<01:48:09> [MSG] Игрок uid:1 покинул duel_id:7
+<01:48:11> [MSG] Удалена дуэль duel_id:7
+<01:48:11> [MSG] Игрок uid:3 покинул duel_id:7
+<12:15:03> [MSG] ВЫХОД Пользователь "test@test.ru"
+<12:39:23> [MSG] ВХОД Пользователь "test@test.ru"
+<12:41:33> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<12:41:55> [MSG] Создана дуэль: {
+                duel_id:    8, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<12:41:57> [MSG] Подключение к дуэли duel_id:8 uid:3
+<12:45:20> [MSG] Игрок uid:3 покинул duel_id:8
+<12:45:23> [MSG] Удалена дуэль duel_id:8
+<12:45:23> [MSG] Игрок uid:1 покинул duel_id:8
+<12:45:37> [MSG] ВЫХОД Пользователь "pepsi@yandex.ru"
+<13:00:01> [MSG] Создана дуэль: {
+                duel_id:    9, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<13:00:33> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<13:00:41> [MSG] Подключение к дуэли duel_id:9 uid:3
+<13:00:51> [MSG] Игрок uid:3 покинул duel_id:9
+<13:00:54> [MSG] Удалена дуэль duel_id:9
+<13:00:54> [MSG] Игрок uid:1 покинул duel_id:9
+<13:01:01> [MSG] ВЫХОД Пользователь "pepsi@yandex.ru"
+<16:17:47> [MSG] Создана дуэль: {
+                duel_id:    10, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<16:17:51> [MSG] Удалена дуэль duel_id:10
+<16:17:51> [MSG] Игрок uid:1 покинул duel_id:10

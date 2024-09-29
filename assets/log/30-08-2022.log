@@ -1,0 +1,252 @@
+<07:42:51> [MSG] Пользователь "test@test.ru" вышел
+<07:57:09> [MSG] Аутентифицирован "Тест"
+<08:00:51> [MSG] Пользователь "test@test.ru" вышел
+<08:01:02> [MSG] Аутентифицирован "Тест"
+<08:22:13> [MSG] Пользователь "test@test.ru" вышел
+<08:22:49> [MSG] Аутентифицирован "Тест"
+<08:22:56> [MSG] Пользователь "test@test.ru" вышел
+<08:24:24> [WARN] Не найден пользователь "test@test.xn--ru-elc" user/methods.php[23]
+<08:24:30> [WARN] Некорректные данные auth/methods.php[66]
+<08:24:39> [WARN] Некорректные данные auth/methods.php[66]
+<08:24:55> [MSG] Аутентифицирован "Тест"
+<08:26:56> [MSG] Пользователь "test@test.ru" вышел
+<08:59:59> [MSG] Аутентифицирован "Тест"
+<09:00:27> [MSG] Пользователь "test@test.ru" вышел
+<09:06:04> [WARN] Не найден пользователь "test@test.rfu" user/methods.php[23]
+<09:06:07> [WARN] Не найден пользователь "test@test.rf" user/methods.php[23]
+<09:06:11> [WARN] Некорректные данные auth/methods.php[66]
+<09:06:13> [MSG] Аутентифицирован "Тест"
+<09:52:14> [MSG] Пользователь "test@test.ru" вышел
+<09:52:16> [MSG] Аутентифицирован "Тест"
+<10:12:55> [MSG] Пользователь "test@test.ru" вышел
+<10:13:08> [MSG] Аутентифицирован "Тест"
+<11:16:05> [MSG] Пользователь "test@test.ru" вышел
+<11:16:10> [MSG] Аутентифицирован "Тест"
+<11:17:10> [MSG] Пользователь "test@test.ru" вышел
+<11:17:23> [MSG] Аутентифицирован "Тест"
+<11:18:29> [MSG] Пользователь "test@test.ru" вышел
+<11:23:05> [MSG] Аутентифицирован "Тест"
+<11:52:48> [MSG] Пользователь "test@test.ru" вышел
+<11:53:01> [WARN] Ошибка регистрации auth/methods.php[121]
+<11:53:43> [MSG] Пользователь "admin@lucors.ru" вышел
+<11:53:56> [WARN] Некорректные данные auth/methods.php[66]
+<11:53:58> [MSG] Аутентифицирован "Тест"
+<11:54:38> [WARN] Ошибка смены имени user/methods.php[213]
+<11:55:47> [MSG] Пользователь "test@test.ru" вышел
+<11:55:56> [MSG] Аутентифицирован "Тест"
+<11:56:03> [MSG] Пользователь "test@test.ru" вышел
+<11:56:16> [MSG] Аутентифицирован "Тест"
+<11:59:57> [MSG] Пользователь "test@test.ru" вышел
+<12:00:04> [MSG] Аутентифицирован "Тест"
+<12:03:59> [MSG] Пользователь "test@test.ru" вышел
+<12:06:16> [MSG] Аутентифицирован "Тест"
+<12:15:10> [MSG] Аутентифицирован "Тест"
+<12:15:53> [MSG] Пользователь "test@test.ru" вышел
+<12:31:04> [MSG] Аутентифицирован "Тест"
+<12:31:24> [MSG] Пользователь "test@test.ru" вышел
+<12:32:47> [MSG] Аутентифицирован "Тест"
+<12:33:03> [MSG] Пользователь "test@test.ru" вышел
+<12:33:25> [MSG] Аутентифицирован "Тест"
+<12:33:40> [MSG] Пользователь "test@test.ru" вышел
+<12:34:18> [MSG] Аутентифицирован "Тест"
+<12:34:37> [MSG] Пользователь "test@test.ru" вышел
+<14:23:01> [MSG] Пользователь "test@test.ru" вышел
+<14:23:05> [MSG] Аутентифицирован "Тест"
+<14:38:49> [WARN] Некорректные данные auth/methods.php[66]
+<18:34:07> [MSG] Создана дуэль: {
+                duel_id:    4, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<18:51:17> [MSG] Подключение к комнате 
+<18:51:26> [MSG] Подключение к комнате 
+<18:51:45> [MSG] Подключение к комнате 4
+<18:52:00> [MSG] Подключение к комнате 4
+<18:52:17> [MSG] Подключение к комнате 4
+<18:53:06> [MSG] Подключение к комнате 4
+<18:53:39> [MSG] Подключение к комнате 4
+<19:17:05> [MSG] Создана дуэль: {
+                duel_id:    5, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<19:17:08> [MSG] Создана дуэль: {
+                duel_id:    6, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 2, 
+                duel_data_id: 2
+            }
+<19:21:16> [MSG] Создана дуэль: {
+                duel_id:    7, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<19:21:40> [MSG] Создана дуэль: {
+                duel_id:    8, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 2, 
+                duel_data_id: 2
+            }
+<19:25:47> [MSG] Подключение к комнате 7
+<19:26:39> [MSG] Создана дуэль: {
+                duel_id:    9, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 0, 
+                duel_data_id: 3
+            }
+<19:28:47> [MSG] Создана дуэль: {
+                duel_id:    10, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<19:30:01> [MSG] Создана дуэль: {
+                duel_id:    11, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<19:30:05> [MSG] Подключение к комнате 11
+<19:30:14> [MSG] Создана дуэль: {
+                duel_id:    12, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 0, 
+                duel_data_id: 3
+            }
+<19:40:09> [MSG] Создана дуэль: {
+                duel_id:    13, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 2, 
+                duel_data_id: 2
+            }
+<19:46:27> [MSG] Создана дуэль: {
+                duel_id:    14, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<19:47:22> [MSG] Создана дуэль: {
+                duel_id:    15, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<19:47:31> [MSG] Создана дуэль: {
+                duel_id:    16, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<19:47:39> [MSG] Создана дуэль: {
+                duel_id:    17, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<19:48:10> [MSG] Создана дуэль: {
+                duel_id:    18, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<19:48:28> [MSG] Создана дуэль: {
+                duel_id:    19, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<19:49:03> [MSG] Создана дуэль: {
+                duel_id:    20, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<19:49:15> [MSG] Создана дуэль: {
+                duel_id:    21, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<19:49:49> [MSG] Создана дуэль: {
+                duel_id:    22, 
+                step_time:  0, 
+                step_time:  30, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<19:53:46> [MSG] Создана дуэль: {
+                duel_id:    23, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<19:53:50> [MSG] Подключение к дуэли duel_id:23 (uid:2)
+<20:00:00> [MSG] Игрок uid:1 покинул duel_id:23
+<20:00:07> [MSG] Удалена дуэль duel_id:23
+<20:00:07> [MSG] Игрок uid:2 покинул duel_id:23
+<20:12:09> [MSG] Создана дуэль: {
+                duel_id:    24, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<20:12:15> [MSG] Удалена дуэль duel_id:24
+<20:12:15> [MSG] Игрок uid:1 покинул duel_id:24
+<21:15:11> [MSG] Создана дуэль: {
+                duel_id:    25, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<21:15:20> [MSG] Удалена дуэль duel_id:25
+<21:15:20> [MSG] Игрок uid:1 покинул duel_id:25
+<21:15:54> [MSG] Создана дуэль: {
+                duel_id:    26, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<21:16:30> [MSG] Подключение к дуэли duel_id:26 uid:0
+<21:16:39> [MSG] Игрок uid:0 покинул duel_id:26
+<21:16:39> [MSG] Игрок uid:0 покинул duel_id:-1
+<21:16:40> [MSG] Игрок uid:0 покинул duel_id:-1
+<21:17:19> [MSG] Удалена дуэль duel_id:26
+<21:17:19> [MSG] Игрок uid:1 покинул duel_id:26
+<21:17:39> [MSG] Создана дуэль: {
+                duel_id:    27, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<21:17:44> [MSG] Удалена дуэль duel_id:27
+<21:17:44> [MSG] Игрок uid:1 покинул duel_id:27
+<21:17:49> [MSG] Создана дуэль: {
+                duel_id:    28, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<21:17:54> [MSG] Удалена дуэль duel_id:28
+<21:17:54> [MSG] Игрок uid:1 покинул duel_id:28
+<22:22:13> [MSG] Создана дуэль: {
+                duel_id:    29, 
+                creator_id: 4, 
+                duel_data_id: 4
+            }
+<22:22:37> [MSG] Удалена дуэль duel_id:29
+<22:22:37> [MSG] Игрок uid:4 покинул duel_id:29

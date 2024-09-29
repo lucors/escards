@@ -1,0 +1,30 @@
+<14:21:14> [MSG] ВХОД Пользователь "nikitabar3@gmail.com"
+<14:21:50> [MSG] Создана дуэль: {
+                duel_id:    86, 
+                creator_id: 2, 
+                duel_data_id: 10,
+                player_order: 0
+            }
+<14:21:53> [MSG] Подключение к дуэли duel_id:86 uid:1
+<14:24:08> [MSG] Удалена дуэль duel_id:86
+<14:24:08> [MSG] Игрок uid:2 покинул duel_id:86
+<14:24:08> [MSG] Игрок uid:1 покинул duel_id:86
+<14:24:12> [MSG] Создана дуэль: {
+                duel_id:    87, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<14:25:43> [MSG] ВЫХОД Пользователь "nikitabar3@gmail.com"
+<14:25:43> [MSG] Удалена дуэль duel_id:87
+<14:25:43> [MSG] Игрок uid:1 покинул duel_id:87
+<14:26:48> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<21:30:33> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<21:31:19> [MSG] Создана дуэль: {
+                duel_id:    88, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<23:19:16> [WARN] Не найден пользователь "test@test.ru" user/methods.php[22]
+<23:19:31> [MSG] ВХОД Пользователь "admin@lucors.ru"

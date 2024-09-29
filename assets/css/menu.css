@@ -1,0 +1,100 @@
+#stage-menu {
+    background-image: url(assets/img/menu/bg_mainmenu.jpg);
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#stage-menu canvas {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 5;
+}
+
+/* #game-search-info {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    z-index: 101;
+    color: white;
+    font-size: large;
+} */
+
+#substage-logout {
+    background-image: url(assets/img/menu/exit.jpg);
+    background-position: top left;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#substage-logout.active {
+    z-index: 10;
+}
+#about-logout,
+#actions-logout {
+    display: flex;
+    position: absolute;
+}
+#about-logout {
+    text-align: center;
+    color: #0F256D;
+    /* background-color: #e3427a14; */
+    justify-content: center;
+    align-items: center;
+
+    /* bgr below */
+    width: calc(672px*var(--bgr));
+    height: calc(141px*var(--bgr));
+    left: calc(857px*var(--bgr));
+    top: calc(312px*var(--bgr));
+    font-size: calc(54px*var(--bgr));
+}
+#actions-logout {
+    color: #3B5BC2;
+    /* background-color: #e3427a14; */
+    justify-content: space-between;
+    align-items: center;
+
+    /* bgr below */
+    width: calc(715px*var(--bgr));
+    height: calc(68px*var(--bgr));
+    left: calc(890px*var(--bgr));
+    top: calc(559px*var(--bgr));
+    font-size: calc(60px*var(--bgr));
+}
+#actions-logout > .action:hover {
+    color: #FF7B02;
+}
+
+/* #edit-user-avatar {
+    justify-content: center;
+} */
+#edit-user-avatar {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* bgr below */
+    width: calc(155px*var(--bgr));
+}
+#edit-user-avatar input {
+    display: none;
+}
+#edit-user-avatar .key{
+    background-color: #B2B3B4;
+    /* background: linear-gradient(0deg, #d99963, #845b3c); */
+    /* bgr below */
+    width: calc(155px*var(--bgr));
+    height: calc(155px*var(--bgr));
+}
+#profile-settings > .value {
+    width: 80%;
+}
+#profile-settings > .value .key {
+    width: 30%;
+}
+#edit-user-avatar > .save{
+    margin: 0;
+}
+#profile-settings #profile-stats > .key {
+    width: 75%;
+}

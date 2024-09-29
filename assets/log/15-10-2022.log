@@ -1,0 +1,38 @@
+<19:41:48> [WARN] Не найден пользователь "test@test.ru" user/methods.php[22]
+<19:41:53> [WARN] Не найден пользователь "thesourcecode.max@yandex.ru" user/methods.php[22]
+<19:42:00> [WARN] Не найден пользователь "thesourcecode.max@yandex.ru" user/methods.php[22]
+<19:42:34> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<19:49:43> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<19:49:49> [WARN] Не найден пользователь "test@test.ru" user/methods.php[22]
+<19:49:52> [WARN] Некорректные данные auth/methods.php[44]
+<19:49:57> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<19:52:59> [WARN] Ошибка получения данных соперника duel/methods.php[400]
+<19:53:00> [WARN] Ошибка получения данных соперника card/daemon-support.php[21]
+<19:53:44> [MSG] Создана дуэль: {
+                duel_id:    100, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<19:53:58> [MSG] Удалена дуэль duel_id:100
+<19:53:58> [MSG] Игрок uid:1 покинул duel_id:100
+<19:54:08> [MSG] Создана дуэль: {
+                duel_id:    101, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<19:54:48> [MSG] Удалена дуэль duel_id:101
+<19:54:48> [MSG] Игрок uid:1 покинул duel_id:101
+<19:54:53> [MSG] Создана дуэль: {
+                duel_id:    102, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<19:55:18> [WARN] Некорректные данные auth/methods.php[44]
+<19:55:21> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<19:55:25> [MSG] Подключение к дуэли duel_id:102 uid:3
+<19:55:44> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<20:06:51> [MSG] Подключение к дуэли duel_id:102 uid:3
+<20:07:01> [MSG] Игрок uid:3 покинул duel_id:102

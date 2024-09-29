@@ -1,0 +1,9 @@
+<00:29:07> [MSG] ВХОД Пользователь "nikolay2009@mail.ru"
+<00:30:29> [MSG] Создана дуэль: {
+                duel_id:    111, 
+                creator_id: 7, 
+                duel_data_id: 3,
+                player_order: 0
+            }
+<00:30:44> [MSG] Удалена дуэль duel_id:111
+<00:30:44> [MSG] Игрок uid:7 покинул duel_id:111

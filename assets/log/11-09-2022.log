@@ -1,0 +1,42 @@
+<17:18:18> [WARN] Не найден пользователь "test@test.ru" user/methods.php[22]
+<17:18:31> [WARN] Некорректные данные auth/methods.php[44]
+<17:18:38> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<17:19:22> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<17:19:33> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<17:19:57> [MSG] Создана дуэль: {
+                duel_id:    83, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<17:20:15> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<17:20:18> [MSG] Подключение к дуэли duel_id:83 uid:3
+<17:31:49> [MSG] Удалена дуэль duel_id:83
+<17:31:49> [MSG] Игрок uid:1 покинул duel_id:83
+<17:31:55> [MSG] Создана дуэль: {
+                duel_id:    84, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<17:32:24> [MSG] Подключение к дуэли duel_id:84 uid:3
+<17:34:48> [MSG] Удалена дуэль duel_id:84
+<17:34:48> [MSG] Игрок uid:1 покинул duel_id:84
+<17:35:05> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<17:35:11> [WARN] Не найден пользователь "test@test.ru" user/methods.php[22]
+<17:35:20> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<17:35:30> [MSG] Игрок uid:3 покинул duel_id:84
+<17:37:56> [MSG] Создана дуэль: {
+                duel_id:    85, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<17:38:02> [MSG] Удалена дуэль duel_id:85
+<17:38:02> [MSG] Игрок uid:1 покинул duel_id:85
+<17:38:10> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<17:38:20> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<18:01:57> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<22:39:01> [WARN] Не найден пользователь "test@test.ru" user/methods.php[22]
+<22:39:02> [WARN] Не найден пользователь "thesourcecode.max@yandex.ru" user/methods.php[22]
+<22:39:06> [MSG] ВХОД Пользователь "admin@lucors.ru"

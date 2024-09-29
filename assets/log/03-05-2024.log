@@ -1,0 +1,20 @@
+<15:28:12> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<15:28:16> [MSG] Создана дуэль: {
+                duel_id:    141, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<15:28:19> [MSG] Удалена дуэль duel_id:141
+<15:28:19> [MSG] Игрок uid:1 покинул duel_id:141
+<15:28:29> [MSG] Создана дуэль: {
+                duel_id:    142, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<15:29:21> [MSG] ВХОД Пользователь "test@test.ru"
+<15:29:31> [MSG] Подключение к дуэли duel_id:142 uid:16
+<15:31:21> [MSG] Удалена дуэль duel_id:142
+<15:31:21> [MSG] Игрок uid:1 покинул duel_id:142
+<15:31:25> [MSG] ВЫХОД Пользователь "admin@lucors.ru"

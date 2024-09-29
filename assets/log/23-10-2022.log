@@ -1,0 +1,76 @@
+<12:33:44> [WARN] Не найден пользователь "test@test.ru" user/methods.php[22]
+<12:33:51> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<12:34:20> [WARN] Неверный старый пароль user/methods.php[147]
+<12:35:30> [MSG] Создана дуэль: {
+                duel_id:    104, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<12:38:59> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<12:40:13> [MSG] Подключение к дуэли duel_id:104 uid:3
+<12:42:26> [MSG] Удалена дуэль duel_id:104
+<12:42:26> [MSG] Игрок uid:3 покинул duel_id:104
+<12:42:31> [MSG] Игрок uid:1 покинул duel_id:104
+<12:42:34> [MSG] Создана дуэль: {
+                duel_id:    105, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<12:42:37> [MSG] Подключение к дуэли duel_id:105 uid:3
+<12:42:38> [MSG] Игрок uid:1 покинул duel_id:105
+<12:42:41> [MSG] Удалена дуэль duel_id:105
+<12:42:41> [MSG] Игрок uid:3 покинул duel_id:105
+<12:42:43> [MSG] Создана дуэль: {
+                duel_id:    106, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<12:42:45> [MSG] Подключение к дуэли duel_id:106 uid:3
+<12:44:33> [MSG] Удалена дуэль duel_id:106
+<12:44:33> [MSG] Игрок uid:1 покинул duel_id:106
+<12:44:36> [MSG] Создана дуэль: {
+                duel_id:    107, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<12:44:40> [MSG] Игрок uid:3 покинул duel_id:106
+<12:44:44> [MSG] Удалена дуэль duel_id:107
+<12:44:44> [MSG] Игрок uid:1 покинул duel_id:107
+<12:44:55> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<12:45:18> [WARN] Некорректные данные auth/methods.php[44]
+<12:45:20> [WARN] Некорректные данные auth/methods.php[44]
+<12:45:23> [WARN] Некорректные данные auth/methods.php[44]
+<12:45:33> [WARN] Некорректные данные auth/methods.php[44]
+<12:45:40> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<12:45:49> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<12:46:07> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<12:46:20> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<12:47:07> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<12:47:12> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<12:47:20> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<23:06:36> [WARN] Некорректные данные auth/methods.php[44]
+<23:06:40> [WARN] Некорректные данные auth/methods.php[44]
+<23:07:01> [WARN] Некорректные данные auth/methods.php[44]
+<23:07:05> [WARN] Некорректные данные auth/methods.php[44]
+<23:07:09> [WARN] Некорректные данные auth/methods.php[44]
+<23:07:15> [WARN] Некорректные данные auth/methods.php[44]
+<23:07:19> [WARN] Некорректные данные auth/methods.php[44]
+<23:07:24> [WARN] Некорректные данные auth/methods.php[44]
+<23:07:40> [WARN] Не найден пользователь "nikitagus48@gmail.com" user/methods.php[22]
+<23:07:52> [WARN] Некорректные данные auth/methods.php[44]
+<23:08:00> [WARN] Некорректные данные auth/methods.php[44]
+<23:08:03> [WARN] Некорректные данные auth/methods.php[44]
+<23:08:06> [MSG] ВХОД Пользователь "nikitabar3@gmail.com"
+<23:08:43> [MSG] Создана дуэль: {
+                duel_id:    108, 
+                creator_id: 2, 
+                duel_data_id: 10,
+                player_order: 0
+            }
+<23:08:50> [MSG] Удалена дуэль duel_id:108
+<23:08:50> [MSG] Игрок uid:2 покинул duel_id:108
+<23:08:54> [MSG] ВЫХОД Пользователь "nikitabar3@gmail.com"

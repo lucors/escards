@@ -1,0 +1,7 @@
+<20:24:20> [MSG] ВХОД Пользователь "nikolay2009@mail.ru"
+<20:24:24> [MSG] Создана дуэль: {
+                duel_id:    113, 
+                creator_id: 7, 
+                duel_data_id: 3,
+                player_order: 0
+            }

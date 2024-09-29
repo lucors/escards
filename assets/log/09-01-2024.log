@@ -1,0 +1,35 @@
+<17:13:24> [WARN] Некорректный формат email auth/methods.php[17]
+<17:13:33> [WARN] Некорректные данные auth/methods.php[44]
+<17:13:35> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<17:18:15> [MSG] Подключение к дуэли duel_id:134 uid:1
+<17:19:18> [MSG] Игрок uid:1 покинул duel_id:134
+<17:19:21> [MSG] Создана дуэль: {
+                duel_id:    135, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<17:21:04> [MSG] Удалена дуэль duel_id:135
+<17:21:04> [MSG] Игрок uid:1 покинул duel_id:135
+<17:22:05> [WARN] Старый пароль пуст user/methods.php[127]
+<17:22:10> [WARN] Неверный старый пароль user/methods.php[147]
+<17:23:25> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<17:23:49> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<17:24:11> [MSG] Создана дуэль: {
+                duel_id:    136, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<17:24:14> [MSG] Удалена дуэль duel_id:136
+<17:24:14> [MSG] Игрок uid:1 покинул duel_id:136
+<17:24:22> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<17:28:23> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<17:28:47> [MSG] Создана дуэль: {
+                duel_id:    137, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<17:29:08> [MSG] Удалена дуэль duel_id:137
+<17:29:08> [MSG] Игрок uid:1 покинул duel_id:137

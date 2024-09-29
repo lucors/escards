@@ -1,0 +1,66 @@
+<09:46:25> [MSG] Создана дуэль: {
+                duel_id:    62, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<09:46:27> [MSG] Удалена дуэль duel_id:62
+<09:46:27> [MSG] Игрок uid:1 покинул duel_id:62
+<09:46:30> [MSG] Создана дуэль: {
+                duel_id:    63, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<09:47:08> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<09:47:14> [MSG] Подключение к дуэли duel_id:63 uid:2
+<09:50:11> [MSG] Игрок uid:1 покинул duel_id:63
+<09:50:14> [MSG] Удалена дуэль duel_id:63
+<09:50:14> [MSG] Игрок uid:2 покинул duel_id:63
+<09:51:34> [MSG] Создана дуэль: {
+                duel_id:    64, 
+                creator_id: 2, 
+                duel_data_id: 3,
+                player_order: 0
+            }
+<09:51:39> [MSG] Подключение к дуэли duel_id:64 uid:1
+<09:51:40> [MSG] Игрок uid:2 покинул duel_id:64
+<09:51:42> [MSG] Удалена дуэль duel_id:64
+<09:51:42> [MSG] Игрок uid:1 покинул duel_id:64
+<09:51:47> [MSG] Создана дуэль: {
+                duel_id:    65, 
+                creator_id: 2, 
+                duel_data_id: 3,
+                player_order: 0
+            }
+<09:51:53> [MSG] Подключение к дуэли duel_id:65 uid:1
+<09:52:02> [MSG] Игрок uid:2 покинул duel_id:65
+<09:52:04> [MSG] Удалена дуэль duel_id:65
+<09:52:04> [MSG] Игрок uid:1 покинул duel_id:65
+<13:59:47> [WARN] Некорректные данные auth/methods.php[69]
+<13:59:52> [MSG] ВХОД Пользователь "test@test.ru"
+<14:00:01> [MSG] Создана дуэль: {
+                duel_id:    66, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<14:00:06> [MSG] Удалена дуэль duel_id:66
+<14:00:06> [MSG] Игрок uid:1 покинул duel_id:66
+<14:00:14> [MSG] Создана дуэль: {
+                duel_id:    67, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<14:00:21> [MSG] Удалена дуэль duel_id:67
+<14:00:21> [MSG] Игрок uid:1 покинул duel_id:67
+<14:00:29> [MSG] ВЫХОД Пользователь "test@test.ru"
+<20:42:17> [MSG] Создана дуэль: {
+                duel_id:    68, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<20:45:54> [WARN] Не найден пользователь "nikolay2009@mail.ru" user/methods.php[23]
+<20:46:01> [WARN] Игра временно недоступна auth/methods.php[100]

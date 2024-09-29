@@ -1,0 +1,16 @@
+<11:57:23> [MSG] Создана дуэль: {
+                duel_id:    30, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<11:57:35> [MSG] Удалена дуэль duel_id:30
+<11:57:35> [MSG] Игрок uid:1 покинул duel_id:30
+<11:58:52> [MSG] Создана дуэль: {
+                duel_id:    31, 
+                creator_id: 1, 
+                duel_data_id: 1
+            }
+<11:58:59> [MSG] Удалена дуэль duel_id:31
+<11:58:59> [MSG] Игрок uid:1 покинул duel_id:31
+<13:19:07> [WARN] Некорректный формат email auth/methods.php[42]
+<13:19:12> [WARN] Не найден пользователь "test@test.r" user/methods.php[23]

@@ -1,0 +1,12 @@
+<01:30:44> [MSG] ВХОД Пользователь "admin@lucors.ru"
+<01:30:47> [MSG] Создана дуэль: {
+                duel_id:    114, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<01:31:56> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<01:32:00> [MSG] Подключение к дуэли duel_id:114 uid:3
+<01:35:44> [MSG] Удалена дуэль duel_id:114
+<01:35:44> [MSG] Игрок uid:1 покинул duel_id:114
+<01:35:48> [MSG] Игрок uid:3 покинул duel_id:114

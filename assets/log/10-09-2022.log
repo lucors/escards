@@ -1,0 +1,62 @@
+<00:00:51> [MSG] Создана дуэль: {
+                duel_id:    76, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<00:01:21> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<00:02:36> [MSG] Подключение к дуэли duel_id:76 uid:3
+<00:47:30> [MSG] Игрок uid:3 покинул duel_id:76
+<01:12:11> [MSG] Удалена дуэль duel_id:76
+<01:12:11> [MSG] Игрок uid:1 покинул duel_id:76
+<01:27:24> [MSG] Создана дуэль: {
+                duel_id:    77, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<01:27:58> [MSG] Удалена дуэль duel_id:77
+<01:27:58> [MSG] Игрок uid:1 покинул duel_id:77
+<01:28:01> [MSG] Создана дуэль: {
+                duel_id:    78, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<01:45:36> [MSG] Удалена дуэль duel_id:78
+<01:45:36> [MSG] Игрок uid:1 покинул duel_id:78
+<01:47:01> [MSG] Создана дуэль: {
+                duel_id:    79, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<01:48:38> [MSG] Удалена дуэль duel_id:79
+<01:48:38> [MSG] Игрок uid:1 покинул duel_id:79
+<01:50:18> [MSG] Создана дуэль: {
+                duel_id:    80, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<01:50:20> [MSG] Удалена дуэль duel_id:80
+<01:50:20> [MSG] Игрок uid:1 покинул duel_id:80
+<01:52:54> [MSG] Создана дуэль: {
+                duel_id:    81, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<01:53:13> [MSG] ВХОД Пользователь "pepsi@yandex.ru"
+<01:53:22> [MSG] Подключение к дуэли duel_id:81 uid:3
+<01:54:00> [MSG] Удалена дуэль duel_id:81
+<01:54:00> [MSG] Игрок uid:3 покинул duel_id:81
+<01:54:14> [MSG] Игрок uid:1 покинул duel_id:81
+<01:57:20> [MSG] Создана дуэль: {
+                duel_id:    82, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<01:57:23> [MSG] Удалена дуэль duel_id:82
+<01:57:23> [MSG] Игрок uid:1 покинул duel_id:82

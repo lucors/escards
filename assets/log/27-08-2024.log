@@ -1,0 +1,10 @@
+<20:39:03> [MSG] Создана дуэль: {
+                duel_id:    152, 
+                creator_id: 1, 
+                duel_data_id: 1,
+                player_order: 0
+            }
+<20:39:05> [MSG] Удалена дуэль duel_id:152
+<20:39:05> [MSG] Игрок uid:1 покинул duel_id:152
+<20:39:10> [MSG] ВЫХОД Пользователь "admin@lucors.ru"
+<20:39:16> [WARN] Некорректный формат email auth/methods.php[17]
